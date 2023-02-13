@@ -15,3 +15,4 @@ git push -u origin master  -----  Push all files from local git to remote github
 
 <CREATE PERSONAL ACCESS TOKEN(CLASSIC) FROM GITHUB DEVELOPER OPTIONS AND USE IN PLACE OF PASSWORD DURING PUSH>
 
+ACCESS TOKEN/ PASSWORD ------  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
