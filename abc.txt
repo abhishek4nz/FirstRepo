@@ -1,1 +1,17 @@
 This is my first git file to be committed.
+
+GIT COMMANDS
+
+git init   ----- Creates a local repo of the current folder.
+git add .  ----- Adds all files of the current folder to the staging area
+git status ----- Shows the status of the files whether new/modified.
+git config --global user.email  ----- Sets the email address of Github
+git config --global user.name ----- Sets the username of Github
+git commit -m "comment" ----- sends files from staging area to git repo. Adds comment also.
+git remote add origin https://github.com/abhishek4nz/FirstRepo.git ---- Establish connection with Github
+git remote set-url origin https:abhishek4nz@github.com/abhishek4nz/FirstRepo.git  ----- Connect github username with Github repo
+git push -u origin master  -----  Push all files from local git to remote github repo
+
+
+<CREATE PERSONAL ACCESS TOKEN(CLASSIC) FROM GITHUB DEVELOPER OPTIONS AND USE IN PLACE OF PASSWORD DURING PUSH>
+
